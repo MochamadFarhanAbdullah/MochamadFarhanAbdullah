@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochamadfarhanabdullah" alt="mochamadfarhanabdullah" /></a> </p>
 
 - 🌱 I’m currently learning **Unity and Backend**
 
